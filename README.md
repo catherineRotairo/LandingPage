@@ -1,2 +1,2 @@
 # LandingPage
-A  landing page project from  theodinproject foundation curriculum
+A  landing page project from  theodinproject curriculum
